@@ -1,6 +1,6 @@
 # Easy Fly Plugin 
 
-A easy and straight forward /fly plugin with customizable on fly message, and can be used from both ingame and console.
+An easy and straight forward /fly plugin with customizable on fly message, and can be used from both ingame and console.
 
 ## Installation
 
