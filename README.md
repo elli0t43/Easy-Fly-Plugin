@@ -4,7 +4,7 @@ An easy and straight forward /fly plugin with customizable on fly message, and c
 
 ## Installation
 
-Copy and paste the /target/EasyFlyPlugin-1.0.jar to your server's plugin folder
+Copy and paste the /target/EasyFlyPlugin-1.0.jar to your server's plugin folder, and after that give "EasyFlyPlugin.fly" permission to the desired players or group.
 
 ## Usage
 
