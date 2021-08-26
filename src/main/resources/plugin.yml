@@ -1,0 +1,10 @@
+name: EasyFlyPlugin
+version: '${project.version}'
+main: me.elli0t43.easyfly.easyflyplugin.EasyFlyPlugin
+api-version: 1.17
+authors: [ elli0t43 ]
+description: Easy Fly Plugin for both Console and ingame
+commands:
+  fly:
+    description: Fly Command, for both ingame and console usage.
+    usage: /<command> <playername>
